@@ -1,0 +1,16 @@
+# Core dependencies
+qdrant-client>=1.7.0
+sentence-transformers>=2.2.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# Utilities
+pyyaml>=6.0.1
+requests>=2.31.0
+aiohttp>=3.9.0
+
+# Optional: MCP integration
+# mcp>=0.1.0
+
