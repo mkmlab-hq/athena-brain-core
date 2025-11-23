@@ -3,7 +3,7 @@
 **Give your AI a brain that remembers and evolves**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/mkmlab/athena-brain-core?style=social)](https://github.com/mkmlab/athena-brain-core)
+[![GitHub Stars](https://img.shields.io/github/stars/mkmlab-hq/athena-brain-core?style=social)](https://github.com/mkmlab-hq/athena-brain-core)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/mkmlab/athena-brain-core.git
+git clone https://github.com/mkmlab-hq/athena-brain-core.git
 cd athena-brain-core
 
 # Install dependencies
@@ -123,6 +123,31 @@ Athena Brain Core
 
 ---
 
+## 🌐 Integration with MKM Life Ecosystem
+
+**Athena Brain Core** is the open-source foundation for **Athena API** - the self-evolving memory system:
+
+- **Athena API**: Cloud-based API service built on Athena Brain Core - [Learn More](https://mkmlife.com/api/athena)
+- **Jema API**: Korean medicine intelligence API - [Learn More](https://mkmlife.com/api/jema)
+- **Athena Search**: Real-time web search with domain filtering
+- **B2B Private Box**: On-Premise LLM solutions for enterprises
+
+**Platform**: [MKM Life](https://mkmlife.com) | **Developer Portal**: [A-Code AI](https://a-codeai.com)
+
+---
+
+## 🚀 Latest Features (2025)
+
+- ✅ **Agentic RAG**: Intelligent query routing with LLM Router (Adaptive RAG)
+- ✅ **GraphRAG**: Knowledge graph-based search for domain expertise
+- ✅ **CRAG**: Corrective RAG for quality assurance and automatic fallback
+- ✅ **Pattern Recognition**: FAST/MEDIUM/DEEP adaptive analysis paths
+- ✅ **Emotion Tagging**: 5 emotion types (satisfaction, frustration, surprise, confusion, pride)
+- ✅ **Neural Network Expansion**: Automatic memory connection creation and strengthening
+- ✅ **MCP Integration**: 15+ MCP servers for enhanced AI capabilities
+
+---
+
 ## 📋 Requirements
 
 - Python 3.11+
@@ -174,6 +199,16 @@ personalization:
 
 ---
 
+## 🔗 Related Projects
+
+- **[Autonomous Learning MCP](https://github.com/mkmlab-hq/autonomous-learning-mcp)** - Self-learning MCP server system with pattern detection and auto-rule generation
+- **[Cursor Advanced Rules](https://github.com/mkmlab-hq/cursor-advanced-rules)** - Optimized Cursor Rules system (6 essential rules)
+- **[A-Code AI](https://a-codeai.com)** - Developer portal for Jema API & Athena API
+- **[MKM Life](https://mkmlife.com)** - Integrated health platform (Showroom + B2C)
+- **[Persona Diary](https://personadiary.com)** - AI-powered diary generation with emotion analysis
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
@@ -182,7 +217,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 
 ```bash
 # Clone and setup
-git clone https://github.com/mkmlab/athena-brain-core.git
+git clone https://github.com/mkmlab-hq/athena-brain-core.git
 cd athena-brain-core
 pip install -r requirements-dev.txt
 
@@ -235,20 +270,40 @@ flake8 .
 - [Full Documentation](https://docs.athenabrain.ai)
 - [API Reference](https://docs.athenabrain.ai/api)
 - [Examples](https://docs.athenabrain.ai/examples)
+- [Athena API Documentation](https://mkmlife.com/api/athena) - Cloud API service
+- [Jema API Documentation](https://mkmlife.com/api/jema) - Korean medicine intelligence API
 
 ---
 
 ## 🆘 Support
 
-- [GitHub Issues](https://github.com/mkmlab/athena-brain-core/issues)
-- [Discussions](https://github.com/mkmlab/athena-brain-core/discussions)
-- [Email](mailto:support@athenabrain.ai)
+- 📧 Email: support@mkmlife.com
+- 🌐 Developer Portal: [a-codeai.com](https://a-codeai.com)
+- 🏥 Platform: [mkmlife.com](https://mkmlife.com)
+- 🐛 Issues: [GitHub Issues](https://github.com/mkmlab-hq/athena-brain-core/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/mkmlab-hq/athena-brain-core/discussions)
 
 ---
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## ™️ Trademark Notice
+
+**Registered Trademarks:**
+- "MKM Lab" ® - Registered trademark of MKM Lab
+- "Persona Diary" ® - Registered trademark of MKM Lab
+
+**Trademarks (In Use):**
+- "Athena Brain", "Athena API", "Jema API", "MKM Life", "A-Code AI" 
+  are trademarks of MKM Lab. All rights reserved.
+
+**Important**: This license does not grant permission to use the trade names, 
+trademarks, service marks, or product names of MKM Lab, except as required for 
+reasonable and customary use in describing the origin of the Work.
 
 ---
 
@@ -266,7 +321,9 @@ If you find Athena Brain useful, please star this repository! It helps us grow t
 
 ---
 
-**Made with ❤️ by [MKM Lab](https://mkmlab.com)**
+**Made with ❤️ by [MKM Lab](https://mkmlife.com)**
+
+**Part of the MKM Life AI Ecosystem**
 
 **© 2025 MKM Lab. All rights reserved.**
 
