@@ -199,10 +199,12 @@ personalization:
 
 ---
 
-## 🔗 Related Projects
+## 🔗 Part of Athena Ecosystem
 
-- **[Autonomous Learning MCP](https://github.com/mkmlab-hq/autonomous-learning-mcp)** - Self-learning MCP server system with pattern detection and auto-rule generation
+- **[Athena MCP Servers](https://github.com/mkmlab-hq/athena-mcp-servers)** - Essential MCP servers for Cursor IDE
 - **[Cursor Advanced Rules](https://github.com/mkmlab-hq/cursor-advanced-rules)** - Optimized Cursor Rules system (6 essential rules)
+- **[MKM12 Core Engine](https://github.com/mkmlab-hq/mkm12-core-engine)** - Constitutional analysis engine
+- **[ICD Unified Model](https://github.com/mkmlab-hq/icd-unified-model)** - Causal AI framework
 - **[A-Code AI](https://a-codeai.com)** - Developer portal for Jema API & Athena API
 - **[MKM Life](https://mkmlife.com)** - Integrated health platform (Showroom + B2C)
 - **[Persona Diary](https://personadiary.com)** - AI-powered diary generation with emotion analysis
