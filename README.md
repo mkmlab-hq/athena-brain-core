@@ -1,21 +1,36 @@
-# 🧠 Athena Brain Core
+# 🧠 Jema AI Core (formerly Athena Brain Core)
 
 **Give your AI a brain that remembers and evolves**
+
+<div align="center">
+
+![Jema AI Core](https://img.shields.io/badge/Jema-AI%20Core-red)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+
+**Powered by Jema AI** - 한의원 차트보조 AI의 오픈소스 기술 스택
+
+[![Powered by Jema AI](https://img.shields.io/badge/Powered%20by-Jema%20AI-red?style=for-the-badge)](https://jema-ai.com)
+[![Persona Diary](https://img.shields.io/badge/Persona-Diary-purple?style=for-the-badge)](https://personadiary.com)
+
+**👉 [Jema AI 체험하기 (B2B 한의원 솔루션)](https://jema-ai.com)** | **👉 [Persona Diary 다운로드 (B2C 앱)](https://personadiary.com)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/mkmlab-hq/athena-brain-core?style=social)](https://github.com/mkmlab-hq/athena-brain-core)
 
+</div>
+
 ---
 
-## 🎯 What is Athena Brain?
+## 🎯 What is Jema AI Core?
 
-**Athena Brain** solves the fundamental limitations of large language models:
+**Jema AI Core** (formerly Athena Brain Core) solves the fundamental limitations of large language models:
 
 - ❌ **No long-term memory** - ChatGPT forgets everything after each conversation
 - ❌ **No personalization** - Same answers for everyone
 - ❌ **No evolution** - Repeats the same mistakes
 
-**Athena Brain** gives any AI:
+**Jema AI Core** gives any AI:
 
 - 🧠 **Long-term memory** - Remembers everything, maintains project context
 - 🔄 **Self-evolution** - Learns from mistakes, auto-generates rules
@@ -98,10 +113,46 @@ brain.track_mistake(
 
 ---
 
+## 🚀 Performance Improvements (2025-11-27)
+
+### Latest Performance Benchmarks
+
+- ✅ **Response Time**: **75-80% reduction** (8-12s → 1.5-2.5s)
+- ✅ **Token Consumption**: **97.9% savings** (13,869 → 295 tokens)
+- ✅ **Rules Optimization**: **96% reduction** (73 → 3 files)
+- ✅ **First Response Time**: **85-90% reduction** (5-8s → 0.5-1s)
+- ✅ **Long-term Memory Search**: **50% faster** (800-1200ms → 400-600ms)
+
+### Optimization Factors
+
+1. **Rules Optimization** (40-50% contribution)
+   - Duplicate rules removed
+   - alwaysApply rules minimized (67 → 3)
+   - Priority reorganized
+
+2. **VPS Swap Optimization** (30-40% contribution)
+   - Swappiness: 60 → 10
+   - RAM utilization: 2.25x improvement
+   - Disk I/O: 80% reduction
+
+3. **MCP Server Python Unification** (10-20% contribution)
+   - NPX servers removed
+   - Environment consistency achieved
+   - Server response time: 40% faster
+
+### Advanced Features
+
+- ✅ **Long-term Memory Fusion Reasoning**: 6 collections simultaneous search
+- ✅ **Web Search Auto-Detection**: Cost-optimized (Ollama first)
+- ✅ **Intelligent Metacognition**: Pattern recognition, emotional tagging, neural network expansion
+- ✅ **Qdrant Status**: 7 collections, HTTP 200 (normal operation)
+
+---
+
 ## 🏗️ Architecture
 
 ```
-Athena Brain Core
+Jema AI Core
 ├── Local Memory (Qdrant)
 │   ├── Conversation storage
 │   ├── Semantic search
@@ -123,16 +174,53 @@ Athena Brain Core
 
 ---
 
-## 🌐 Integration with MKM Life Ecosystem
+## 🏢 MKM Lab 제품군
 
-**Athena Brain Core** is the open-source foundation for **Athena API** - the self-evolving memory system:
+**Jema AI Core** (오픈소스) ← 현재 프로젝트  
+**Jema AI** (B2B 한의원 솔루션) ← 주 수익  
+**Persona Diary** (B2C 앱) ← 보조 수익  
+**A-CodeAI** (개발자 포털) ← Phase 3
 
-- **Athena API**: Cloud-based API service built on Athena Brain Core - [Learn More](https://mkmlife.com/api/athena)
-- **Jema API**: Korean medicine intelligence API - [Learn More](https://mkmlife.com/api/jema)
-- **Athena Search**: Real-time web search with domain filtering
-- **B2B Private Box**: On-Premise LLM solutions for enterprises
+---
 
-**Platform**: [MKM Life](https://mkmlife.com) | **Developer Portal**: [A-Code AI](https://a-codeai.com)
+## 🏢 관련 제품
+
+### 1. Jema AI (B2B 한의원 솔루션) ⭐ 주 수익
+
+**"Jema AI Core 기술을 활용한 한의원 차트보조 AI"**
+
+- 🏥 **타겟**: 한의원 원장, 한의사
+- 💰 **가격**: 월 구독 또는 라이선스
+- 🎯 **기능**: 차트보조, 체질 분석, 맞춤형 추천
+- 🔗 **사이트**: [jema-ai.com](https://jema-ai.com)
+
+**👉 [Jema AI 체험하기](https://jema-ai.com)** (B2B 영업 문의)
+
+---
+
+### 2. Persona Diary (B2C 앱) ⭐ 보조
+
+**"나만의 AI 동반자 - 점심 추천, 자동 일기"**
+
+- 📱 **타겟**: 일반 사용자
+- 💰 **가격**: 무료 (프리미엄 구독 가능)
+- 🎯 **기능**: 점심 추천, 자동 일기, 체질 기반 맞춤형 추천
+- 🔗 **사이트**: [personadiary.com](https://personadiary.com)
+
+**👉 [Persona Diary 다운로드](https://personadiary.com)** (B2C 앱)
+
+---
+
+### 3. A-CodeAI Developer Portal (Phase 3, 조건부)
+
+**"Jema AI Core 기술의 API 및 개발자 포털"**
+
+- 👨‍💻 **타겟**: 개발자, AI 연구자
+- 💰 **가격**: API 호출료 또는 구독
+- 🎯 **기능**: Athena API, Jema API, 개발자 도구
+- 🔗 **사이트**: [a-codeai.com](https://a-codeai.com)
+
+**👉 [A-CodeAI Developer Portal](https://a-codeai.com)** (Coming Soon 2026)
 
 ---
 
@@ -145,6 +233,7 @@ Athena Brain Core
 - ✅ **Emotion Tagging**: 5 emotion types (satisfaction, frustration, surprise, confusion, pride)
 - ✅ **Neural Network Expansion**: Automatic memory connection creation and strengthening
 - ✅ **MCP Integration**: 15+ MCP servers for enhanced AI capabilities
+- ✅ **Large-Scale Data Integration**: Genesis Mission-style data integration platform (GitHub, web search, user feedback)
 
 ---
 
@@ -249,12 +338,9 @@ flake8 .
 
 **Athena Brain Core**: Free forever (Open Source, MIT License)
 
-**Athena Brain Cloud** (Coming Soon):
-- Personal: $9.99/month
-- Team: $49/month
-- Enterprise: Custom pricing
-
-[🚀 Join Waitlist for Cloud](https://athenabrain.ai/waitlist)
+**Commercial Products**:
+- **Jema AI** (B2B): Monthly subscription or license - [Learn More](https://jema-ai.com)
+- **Persona Diary** (B2C): Free with premium options - [Learn More](https://personadiary.com)
 
 ---
 
@@ -264,6 +350,8 @@ flake8 .
 - **Encryption** - AES-128-CBC + HMAC-SHA256
 - **No Tracking** - We don't track you
 - **Open Source** - Fully auditable
+
+**Security Policy**: See [SECURITY.md](SECURITY.md) for reporting vulnerabilities.
 
 ---
 
@@ -279,11 +367,11 @@ flake8 .
 
 ## 🆘 Support
 
-- 📧 Email: support@mkmlife.com
-- 🌐 Developer Portal: [a-codeai.com](https://a-codeai.com)
-- 🏥 Platform: [mkmlife.com](https://mkmlife.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/mkmlab-hq/athena-brain-core/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/mkmlab-hq/athena-brain-core/discussions)
+- 🏥 **B2B 영업 문의**: [jema-ai.com](https://jema-ai.com) (Jema AI - 한의원 솔루션)
+- 📱 **B2C 앱**: [personadiary.com](https://personadiary.com) (Persona Diary)
+- 👨‍💻 **개발자 포털**: [a-codeai.com](https://a-codeai.com) (Coming Soon 2026)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/mkmlab-hq/athena-brain-core/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/mkmlab-hq/athena-brain-core/discussions)
 
 ---
 
