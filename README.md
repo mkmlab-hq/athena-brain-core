@@ -288,6 +288,42 @@ personalization:
 
 ---
 
+## 🚀 A-CodeAI Developer Portal
+
+이 오픈소스는 **[A-CodeAI Developer Portal](https://a-codeai.com)**의 일부입니다.
+
+### 제품 소개
+
+**A-CodeAI**는 "Self-Evolving Systems를 만드는 엔지니어링 플랫폼"입니다:
+
+- **Athena Workspace AI**: 자동 파일 정리, 프로젝트 관리
+- **Athena Search API**: 웹 + 도메인 지식 RAG 검색
+- **Athena Unified RAG**: 통합 RAG 엔진 (웹 + 코드 + 메모리)
+- **Dynamic Rules Engine**: 실수 자동 방지, Rules 자동 생성
+- **A-CODE Core**: 12차원 수학 엔진 (Enterprise)
+- **장기기억 시스템**: 이 레포지토리 (Jema AI Core)
+
+### 무료로 시작하기
+
+1. **[Developer Portal](https://a-codeai.com)** 방문
+2. Free Tier API Key 발급
+3. **[문서](https://a-codeai.com/docs)** 참고
+
+### 상업적 사용
+
+- **Pro/Enterprise**: [가격 정책](https://a-codeai.com/pricing)
+- **Jema API**: [jema-ai.com](https://jema-ai.com) (B2B 한의원 솔루션)
+- **Athena API**: [a-codeai.com/api](https://a-codeai.com/api) (자율성장 기억 API)
+
+### 관련 레포지토리
+
+- [cursor-advanced-rules](https://github.com/mkmlab-hq/cursor-advanced-rules) - Cursor Rules 최적화
+- [athena-mcp-servers](https://github.com/mkmlab-hq/athena-mcp-servers) - MCP 서버 구현
+- [mkm12-core-engine](https://github.com/mkmlab-hq/mkm12-core-engine) - MKM12 코어 엔진
+- [icd-unified-model](https://github.com/mkmlab-hq/icd-unified-model) - ICD 통합 모델
+
+---
+
 ## 🔗 Part of Athena Ecosystem
 
 - **[Athena MCP Servers](https://github.com/mkmlab-hq/athena-mcp-servers)** - Essential MCP servers for Cursor IDE
